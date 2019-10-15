@@ -1,0 +1,14 @@
+D:\Work\mongoApi\bin\Debug\netcoreapp2.2\mongoApi.deps.json
+D:\Work\mongoApi\bin\Debug\netcoreapp2.2\mongoApi.runtimeconfig.json
+D:\Work\mongoApi\bin\Debug\netcoreapp2.2\mongoApi.runtimeconfig.dev.json
+D:\Work\mongoApi\bin\Debug\netcoreapp2.2\mongoApi.dll
+D:\Work\mongoApi\bin\Debug\netcoreapp2.2\mongoApi.pdb
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.csprojAssemblyReference.cache
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.csproj.CoreCompileInputs.cache
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.RazorAssemblyInfo.cache
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.RazorAssemblyInfo.cs
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.AssemblyInfoInputs.cache
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.AssemblyInfo.cs
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.RazorTargetAssemblyInfo.cache
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.dll
+D:\Work\mongoApi\obj\Debug\netcoreapp2.2\mongoApi.pdb
